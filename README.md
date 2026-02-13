@@ -1,9 +1,10 @@
 ## Hi there 👋
 My name is Arjun, and I'm a mathematics graduate from Stony Brook University interested in all things Python, SQL, Data Science, and AI!
 
-I am currently working on freelance data analytics projects through Upwork, helping clients with SQL reporting and Python-based data analysis.
-I recently built a machine learning model to predict SpaceX Falcon 9 landing success using historical launch data.
-I’m currently seeking full-time opportunities in Data Analytics, Machine Learning, or SQL-focused roles. Feel free to reach out to atalapatra72@gmail.com
+  - 🔭 I am currently working on freelance data analytics projects through Upwork, helping clients with SQL reporting and Python-based data analysis.
+  - 🌱 I recently built a machine learning model to predict SpaceX Falcon 9 landing success using historical launch data.
+  - 👯 I’m currently seeking full-time opportunities in Data Analytics, Machine Learning, or SQL-focused roles.
+  - 📫 Feel free to reach out to me at atalapatra72@gmail.com
 <!--
 **atalapatra72-bit/atalapatra72-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
